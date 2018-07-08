@@ -1,2 +1,2 @@
 # logg
-data analytics
+machine learning and image recognition made easy
